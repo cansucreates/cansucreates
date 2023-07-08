@@ -54,6 +54,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cansucreates&theme=synthwave&card_width=600)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cansucreates&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansucreates&layout=compact&theme=synthwave)
 
 
