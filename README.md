@@ -10,10 +10,6 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQybGsyNjFuM21odGZ1cmF5N2JsZ2RqMjJkZjJ1Y2x6M216YjhyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
