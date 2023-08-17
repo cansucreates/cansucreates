@@ -16,8 +16,7 @@
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope:  As a computer programming student at Istanbul University, I am gaining valuable programming knowledge and skills that provide a strong foundation for my future career.
 - :seedling: In addition to my university education, I am currently immersed in the intensive Re:Coded Bootcamp, working hands-on as a backend developer to create a capstone project that demonstrates my abilities.
-- :zap: Game development is my passion, and in my spare time I eagerly build my skills by creating games from scratch, constantly pushing myself to craft innovative gameplay and captivating worlds.
-- :mailbox: 
+- :zap: Game development is my passion, and in my spare time I eagerly build my skills by creating games from scratch, constantly pushing myself to craft innovative gameplay and captivating worlds. 
 
 ---
 ### 🕸️ Socials :
