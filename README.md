@@ -14,9 +14,9 @@
 
 ### :woman_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope:  I'm a dedicated backend developer currently immersed in the exciting world of the Re:Coded Bootcamp, where I'm working on my capstone project.
-- :seedling: Concurrently, I'm pursuing my studies in computer programming at Istanbul University, constantly expanding my knowledge and honing my skills.
-- :zap: I have a strong passion for the art and game development. As a hobbyist, I'm actively refining my abilities to create captivating games.
+- :telescope:  As a computer programming student at Istanbul University, I am gaining valuable programming knowledge and skills that provide a strong foundation for my future career.
+- :seedling: In addition to my university education, I am currently immersed in the intensive Re:Coded Bootcamp, working hands-on as a backend developer to create a capstone project that demonstrates my abilities.
+- :zap: Game development is my passion, and in my spare time I eagerly build my skills by creating games from scratch, constantly pushing myself to craft innovative gameplay and captivating worlds.
 - :mailbox:How to reach me: https://www.linkedin.com/in/cansu-aysagdic/
 ---
 
