@@ -18,7 +18,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: In addition to my university education, I am currently immersed in the intensive Re:Coded Bootcamp, working hands-on as a backend developer to create a capstone project that demonstrates my abilities.
 - :zap: Game development is my passion, and in my spare time I eagerly build my skills by creating games from scratch, constantly pushing myself to craft innovative gameplay and captivating worlds.
 - :mailbox:How to reach me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
 
 ---
 
