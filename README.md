@@ -13,10 +13,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope:  As a computer programming student at Istanbul University, I am gaining valuable programming knowledge and skills that provide a strong foundation for my future career.
-- :seedling: In addition to my university education, I am currently immersed in the intensive Re:Coded Bootcamp, working hands-on as a backend developer to create a capstone project that demonstrates my abilities.
-- :zap: Game development is my passion, and in my spare time I eagerly build my skills by creating games from scratch, constantly pushing myself to craft innovative gameplay and captivating worlds. 
+👋 Hello, I'm Cansu! A Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+
+🎓  As a computer programming student at Istanbul University, I am gaining valuable programming knowledge and skills that provide a strong foundation for my future career.
+
+🚀 In addition to my university education, I am a proud graduate of the Re:Coded Backend Web Development Bootcamp, where I honed my skills as a backend developer. During the bootcamp, I worked on various projects, including a capstone project that demonstrates my abilities and problem-solving skills.
+
+⚡ Game development is my passion, and in my spare time, I eagerly build my skills by creating games from scratch. I am constantly pushing myself to craft innovative gameplay and captivating worlds.
+
+🌱 Feel free to explore my GitHub repositories to see the projects I've been working on and to get a glimpse of my coding journey. If you have any questions or want to collaborate on exciting projects, don't hesitate to reach out!
 
 ---
 ### 🕸️ Socials :
