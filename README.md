@@ -72,10 +72,12 @@
 
 ### :fire: My Stats :
 <center>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=cansucreates&theme=synthwave)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cansucreates&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cansucreates&layout=compact&theme=synthwave)
+
 </center>
 
