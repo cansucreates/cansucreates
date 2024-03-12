@@ -33,7 +33,13 @@
   <p>
     🌱 Feel free to explore my GitHub repositories to see the projects I've been working on and to get a glimpse of my coding journey. If you have any questions or want to collaborate on exciting projects, don't hesitate to reach out!
   </p>
+
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
+  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)
+  
 </div>
+
 
 ---
 
