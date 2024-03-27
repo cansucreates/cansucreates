@@ -42,13 +42,10 @@
 
 
 ---
-<div align="center"> <h3> 🐍 Contributions :</h3> </div>
-![Snake animation](https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
----
+<div align="center">
+<h3> 🐍 Contributions :</h3>
+<img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <div align="center">
   <h3>🕸️ Socials :</h3>
