@@ -9,8 +9,6 @@
   </div>
 </div>
 
----
-
 <div align="center">
   <h3>:woman_technologist: About Me :</h3>
 
@@ -33,30 +31,13 @@
   <p>
     🌱 Feel free to explore my GitHub repositories to see the projects I've been working on and to get a glimpse of my coding journey. If you have any questions or want to collaborate on exciting projects, don't hesitate to reach out!
   </p>
-
-  ## #30NitesOfCode :
-  [Check out my progress @Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
-  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)
-  
 </div>
 
 
 ---
 <div align="center">
-<h3> 🐍 Contributions :</h3>
+<h3> 🐍 My Contributions :</h3>
 <img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<div align="center">
-  <h3>🕸️ Socials :</h3>
-
-  <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=uwu" width="356" alt="Cansu Aysagdic's Dev Card"/></a>
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
-  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
-
-  
 </div>
 
 ---
@@ -113,3 +94,24 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cansucreates&layout=compact&theme=synthwave" alt="Top Langs" />
   </p>
 </div>
+<div align="center">
+  
+  ## #30NitesOfCode :
+  [Check out my progress @Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
+  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)  
+</div>
+
+---
+
+<div align="center" display="flex">
+  <h3>🕸️ Socials :</h3>
+
+  <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=uwu" width="356" alt="Cansu Aysagdic's Dev Card"/></a> | 
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
+  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
+</div>
+
+
+
