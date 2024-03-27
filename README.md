@@ -44,7 +44,7 @@
 ---
 <div align="center">
   <h3> 🐍 Contributions :</h3>
-![Snake animation](https://github.com/cansucreates/cansucreates/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
