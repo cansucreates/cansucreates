@@ -78,6 +78,17 @@
 </div>
 
 ---
+<div align="center" display="flex">
+  <h3>🕸️ Socials :</h3>
+
+  <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=wide&r=ar7" width="652" alt="Cansu's Dev Card"/></a>
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
+  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
+</div>
+
+---
 
 <div align="center">
   <h3>:fire: My Stats :</h3>
@@ -103,15 +114,7 @@
 
 ---
 
-<div align="center" display="flex">
-  <h3>🕸️ Socials :</h3>
 
-  <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=uwu" width="356" alt="Cansu Aysagdic's Dev Card"/></a> | 
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
-  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
-</div>
 
 
 
