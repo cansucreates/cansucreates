@@ -107,9 +107,9 @@
 </div>
 <div align="center">
   
-  ## #30NitesOfCode :
-  [Check out my progress @Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
-  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)  
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
+  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)
 </div>
 
 ---
