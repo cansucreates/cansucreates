@@ -107,9 +107,13 @@
 </div>
 <div align="center">
   
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
-  ![@cansuaysagdic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cansuaysagdic)
+## #My30NitesOfCodePets:
+  [Check out my Monthly Coding Challenge progress here on Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
+<div align="center" display="flex">
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/baby-happy-dinosaur.gif"></a>
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif"></a>
+</div>
+  
 </div>
 
 ---
