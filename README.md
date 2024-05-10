@@ -110,6 +110,7 @@
 ## #My30NitesOfCodePets:
   [Check out my Monthly Coding Challenge progress here on Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
 <div align="center" display="flex">
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif"></a>
   <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif"></a>
   <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif"></a>
 </div>
