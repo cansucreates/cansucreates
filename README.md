@@ -83,6 +83,9 @@
 
   <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=ga4" width="356" alt="cansu ay's Dev Card"/></a>
 
+   [![roadmap.sh](https://roadmap.sh/card/wide/673fe8e55434bf319a2182dd?variant=dark&roadmaps=game-developer)](https://roadmap.sh)
+
+
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
   [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
