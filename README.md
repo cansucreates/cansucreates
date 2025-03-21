@@ -13,23 +13,23 @@
   <h3>:woman_technologist: About Me :</h3>
 
   <p>
-    👋 Hello, I'm Cansu! A Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+    👋 Hello, I'm Cansu! A Backend & Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
   </p>
 
   <p>
-    🎓 As a computer programming student at Istanbul University, I am gaining valuable programming knowledge and skills that provide a strong foundation for my future career.
+    🎓 I have a background in computer programming from Istanbul University and am a graduate of the Re:Coded Backend Web Development Bootcamp, where I honed my backend development skills.
   </p>
 
   <p>
-    🚀 In addition to my university education, I am a proud graduate of the Re:Coded Backend Web Development Bootcamp, where I honed my skills as a backend developer. During the bootcamp, I worked on various projects, including a capstone project that demonstrates my abilities and problem-solving skills.
+    🚀  Currently, I am focusing on game development, using C# and Unity to bring ideas to life. As part of the indie game development team, Lunae Umbra, I am actively working on creating immersive and engaging games.
   </p>
 
   <p>
-    ⚡ Game development is my passion, and in my spare time, I eagerly build my skills by creating games from scratch. I am constantly pushing myself to craft innovative gameplay and captivating worlds.
+    ⚡ Game development is my passion, and I constantly strive to improve my skills by experimenting with new mechanics and crafting unique experiences.
   </p>
 
   <p>
-    🌱 Feel free to explore my GitHub repositories to see the projects I've been working on and to get a glimpse of my coding journey. If you have any questions or want to collaborate on exciting projects, don't hesitate to reach out!
+    🌱 Feel free to explore my GitHub repositories to see my projects and coding journey. If you're interested in collaborating or just want to connect, don't hesitate to reach out!
   </p>
 </div>
 
