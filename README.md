@@ -33,13 +33,6 @@
   </p>
 </div>
 
-
----
-<div align="center">
-<h3> 🐍 My Contributions :</h3>
-<img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 ---
 
 <div align="center">
@@ -116,9 +109,13 @@
   <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif"></a>
   <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif"></a>
 </div>
-  
-</div>
+---
+<div align="center">
+<h3> 🐍 My Contributions :</h3>
+<img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
+<img src = "https://github.com/user-attachments/assets/7c833a52-59bf-42d8-8d84-230049bdba50" />
 
+</div>
 ---
 
 
