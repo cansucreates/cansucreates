@@ -73,14 +73,26 @@
 <div align="center" display="flex">
   <h3>🕸️ Socials :</h3>
 
-   [![roadmap.sh](https://roadmap.sh/card/wide/673fe8e55434bf319a2182dd?variant=dark&roadmaps=game-developer)](https://roadmap.sh)
-
-
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-aysagdic)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
   [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
 
-   <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=ga4" width="356" alt="cansu ay's Dev Card"/></a>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9q793a9vttnl2huppkyy3tozp&show_border=1&limit=3">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9q793a9vttnl2huppkyy3tozp&show_border=1&limit=3" alt="Data Card for Spotify">
+</a>
+
+  <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=ga4" width="356" alt="cansu ay's Dev Card"/></a>
+
+  ## #My30NitesOfCodePets:
+  [Check out my Monthly Coding Challenge progress here on Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
+<div align="center" display="flex">
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif"></a>
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif"></a>
+  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif"></a>
+</div>
+
+   
+  
 </div>
 
 ---
@@ -102,21 +114,13 @@
 </div>
 <div align="center">
   
-## #My30NitesOfCodePets:
-  [Check out my Monthly Coding Challenge progress here on Codedex!](https://www.codedex.io/@cansuaysagdic/30-nites-of-code)  
-<div align="center" display="flex">
-  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif"></a>
-  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif"></a>
-  <a href="https://www.codedex.io/@cansuaysagdic/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif"></a>
-</div>
 ---
 <div align="center">
 <h3> 🐍 My Contributions :</h3>
 <img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
-<img src = "https://github.com/user-attachments/assets/7c833a52-59bf-42d8-8d84-230049bdba50" />
-
 </div>
----
+
+<img src = "https://github.com/user-attachments/assets/7c833a52-59bf-42d8-8d84-230049bdba50" />
 
 
 
