@@ -120,6 +120,8 @@
 <img src = "https://raw.githubusercontent.com/cansucreates/cansucreates/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+---
+
 <img src = "https://github.com/user-attachments/assets/7c833a52-59bf-42d8-8d84-230049bdba50" />
 
 
