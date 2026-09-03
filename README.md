@@ -77,10 +77,6 @@
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cansu_aysagdic)
   [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://cansucreates.itch.io)
 
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9q793a9vttnl2huppkyy3tozp&show_border=1&limit=3">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9q793a9vttnl2huppkyy3tozp&show_border=1&limit=3" alt="Data Card for Spotify">
-</a>
-
   <a href="https://app.daily.dev/itscansuxx"><img src="https://api.daily.dev/devcards/v2/1DIFCohKOrjS9IFpRa8rx.png?type=default&r=ga4" width="356" alt="cansu ay's Dev Card"/></a>
 
   ## #My30NitesOfCodePets:
